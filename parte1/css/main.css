@@ -1,0 +1,23 @@
+/* Inserta tu CSS aqui */
+.rojo{
+	width: 210px;
+	height: 210px;
+	background: #ED462F;
+	position: static;
+}
+
+.violeta{
+	width: 105px;
+	height: 105px;
+	background: #752E80;
+	position: relative;
+	left: 53px;
+	top: 53px;
+}
+
+.amarillo{
+	width: 53px;
+	height: 53px;
+	background: #FFF835;
+	position: absolute;
+}
